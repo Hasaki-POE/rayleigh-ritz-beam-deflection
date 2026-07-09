@@ -15,3 +15,9 @@ A sixth-order polynomial trial function is assumed:
 
 ```math
 u(x) = a_0 + a_1x + a_2x^2 + a_3x^3 + a_4x^4 + a_5x^5 + a_6x^6
+
+## Displacement Plot
+
+The plot below shows the Rayleigh-Ritz beam deflection shape for sample prescribed displacements.
+
+![Rayleigh-Ritz beam deflection plot](figures/displacement_plot.png)
