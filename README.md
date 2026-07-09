@@ -8,7 +8,7 @@ A long, thin beam is fixed at the left end. Two prescribed transverse displaceme
 - $u_1$ at $x = L/2$
 - $u_2$ at $x = L$
 
-The objective is to determine an approximate displacement field \( u(x) \) using the Rayleigh-Ritz method.
+The objective is to determine an approximate displacement field $u(x)$ using the Rayleigh-Ritz method.
 
 ## Method
 A sixth-order polynomial trial function is assumed:
